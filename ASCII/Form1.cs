@@ -15,11 +15,10 @@ namespace ASCII
         {
             if (txt_char.Text != string.Empty)
             {
-                if (Encoding.GetEncoding("unicode").GetBytes
-                    (txt_char.Text).Length == 2)
+                if (Encoding.Default.GetBytes
+                    (txt_char.Text).Length == 1)
                 {
-                    txt_ASCII.Text = Encoding.GetEncoding(
-                        "unicode").GetBytes(txt_char.Text)[0].ToString();
+                    txt_ASCII.Text = Encoding.Default.GetBytes(txt_char.Text)[0].ToString();
                 }
                 else
                 {
