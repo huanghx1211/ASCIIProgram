@@ -16,7 +16,7 @@ namespace ASCII
             if (txt_char.Text != string.Empty)
             {
                 if (Encoding.GetEncoding("unicode").GetBytes
-                    (new char[] { txt_char.Text[0] })[1] == 0)
+                    (txt_char.Text).Length == 2)
                 {
                     txt_ASCII.Text = Encoding.GetEncoding(
                         "unicode").GetBytes(txt_char.Text)[0].ToString();
