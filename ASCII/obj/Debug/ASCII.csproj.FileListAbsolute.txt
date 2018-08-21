@@ -1,0 +1,8 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\bin\Debug\ASCII.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\bin\Debug\ASCII.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.Frm_Main.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\ASCII\ASCII\obj\Debug\ASCII.pdb
